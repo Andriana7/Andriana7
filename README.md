@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at [andriana7.github.io](andriana7.github.io)
+- 👨‍💻 All of my projects are available at [andriana7.github.io](https://andriana7.github.io)
 
 - 💬 Ask me about **Linux**
 
 - 📫 How to reach me **randrianto717@gmail.com**
 
-- 📄 Know about my experiences [drawyour.life](drawyour.life)
+- 📄 Know about my experiences [drawyour.life](https://drawyour.life)
 
 - ⚡ Fun fact **I Think I'm So Sweet**
 
