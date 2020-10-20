@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **randrianto717@gmail.com**
 
-- 📄 Know about my experiences [drawyour.life](https://drawyour.life)
+- 📄 Know about my experiences [drawyour.life](http://drawyour.life)
 
 - ⚡ Fun fact **I Think I'm So Sweet**
 
