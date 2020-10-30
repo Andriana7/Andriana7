@@ -5,7 +5,6 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/yaelahrizkii" target="blank"><img src="https://img.shields.io/twitter/follow/yaelahrizkii?logo=twitter&style=for-the-badge" alt="yaelahrizkii" /></a> </p>
 
 - 🔭 I’m currently working on [PRs School](https://github.com/Andriana7?tab=repositories)
 
