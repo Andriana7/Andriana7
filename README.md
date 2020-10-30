@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andriana7&label=Profile%20views&color=0e75b6&style=flat" alt="andriana7" /> </p>
 
 
+<p align="left"> <a href="https://twitter.com/yaelahrizkii" target="blank"><img src="https://img.shields.io/twitter/follow/yaelahrizkii?logo=twitter&style=for-the-badge" alt="yaelahrizkii" /></a> </p>
 
 
 - 🔭 I’m currently working on [PRs School](https://github.com/Andriana7?tab=repositories)
